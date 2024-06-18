@@ -2,3 +2,6 @@ streamlit
 openai
 langchain
 langchain_community
+sqlite3
+autogen
+os
