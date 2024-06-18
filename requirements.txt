@@ -1,1 +1,3 @@
-pip install streamlit openai langchain
+streamlit
+openai
+langchain
